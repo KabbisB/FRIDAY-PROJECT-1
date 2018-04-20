@@ -1,11 +1,39 @@
-header{
+table{
+  width:15%;
+  background-color:black;
+  color:white;
+  border-radius:5px;
+  margin-top: 30px;
+}
+header h{
+    margin-left: 20%
+    text-align:center;
+}
 
+th{
+  border-bottom:5px solid white;
+}
+td,th{
+  text-align: center;
+  font-weight:bold;
+
+}
+td{
+  border-bottom:2px solid white;
+}
+td:hover{
+  background-color:brown;
+}
+
+.contents h{
   text-align:center;
 }
 
-.tbl{
 
- background-color:black;
- margin-right: 70%
+.contents{
+
+  background-color:brown;
+
+  margin-left: 20%
+
 }
-{background-color: black;}
